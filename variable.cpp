@@ -3,7 +3,7 @@
 using std::cout;
 using std::endl;
 using std::cin;
-using std::string
+using std::string;
 // int main(){
 //     const int a =10;
 //     cout<<a<<endl;
