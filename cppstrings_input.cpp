@@ -12,7 +12,7 @@ int main(void){
     getline(cin,s2,',');// getline(cin,base_string <char>,char delim) Here delim is char ','
     //getline reads entire line including tabs and spaces . '\n' is the only string terminator 
     cout<<"Type 2: "+s2<<endl;
-    //Type 3 -------------mixing cin & getline----------
+    //Type 3 -------------mixing cin & getline--------------
     string s3;
     int x;
     cin>>x;
